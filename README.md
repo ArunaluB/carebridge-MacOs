@@ -15,6 +15,12 @@
 
 ---
 
+## Demo Video
+
+🎥 **[Watch the Assignment Demo Video on Google Drive](https://drive.google.com/file/d/1-ugbq413cXbbI1pkpcYa40dpTt5CgHgV/view?usp=sharing)**
+
+---
+
 ## 01. Abstract & Project Overview
 
 This project is the macOS extension of the NurseryConnect mobile application developed for the SE4020 module. It targets the **Setting Manager** role, complementing the Keyworker role from Assignment 1. The application is built natively for macOS using **SwiftUI** and the **MVVM architecture**.
